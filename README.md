@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @danielmarin589
-- 👀 I’m interested in Java/Python developement.
+- 👀 I’m interested in Python developement.
 - 🌱 I’m currently studying Applied Electronics at Politehnica University of Bucharest.
 
 
