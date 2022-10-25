@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @danielmarin589
-- 👀 I’m interested in Python developement.
-- 🌱 I’m currently studying Applied Electronics at Politehnica University of Bucharest.
-
 
 <!---
 danielmarin589/danielmarin589 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
